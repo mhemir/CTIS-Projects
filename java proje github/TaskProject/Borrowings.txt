@@ -1,0 +1,7 @@
+1 1 AhmetÖzer KürkMantoluMadonna
+2 2 MeralAkça Psikeart
+3 3 HasanKutlu MesnevidenDersAldim
+4 1 AhmetÖzer ŞamdanPlus
+5 1 AhmetÖzer Atlas
+6 1 AhmetÖzer NationalGeographicTürkiye
+7 5 HüseyinDönmez BirGünTekBaşına
